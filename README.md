@@ -15,4 +15,4 @@ Functional coverage and assertions
 
 Multiple test scenarios
 
-Modular testbench structure for all lab exercises
+
